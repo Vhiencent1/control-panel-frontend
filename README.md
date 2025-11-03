@@ -97,3 +97,6 @@ The backend is deployed on Render
 * **Maintainer:** Currently maintained solely by John Lorenz Inocentes.
 
 
+
+# control-panel-frontend
+Aicon Condtruction Supplies Frontend
