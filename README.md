@@ -94,7 +94,7 @@ The backend is deployed on Render
 
 ## Maintenance
 
-* **Maintainer:** Currently maintained solely by John Lorenz Inocentes.
+* **Maintainer:** Currently maintained solely by Vincent Janolino.
 
 
 
